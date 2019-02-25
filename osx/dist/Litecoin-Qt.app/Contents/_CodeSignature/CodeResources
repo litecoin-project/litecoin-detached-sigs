@@ -5,12 +5,17 @@
 	<key>files</key>
 	<dict>
 		<key>Resources/Base.lproj/InfoPlist.strings</key>
-		<data>
-		BH17o0JjNNR2YbPclibEmH1VUPY=
-		</data>
+		<dict>
+			<key>hash</key>
+			<data>
+			BH17o0JjNNR2YbPclibEmH1VUPY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Resources/bitcoin.icns</key>
 		<data>
-		DrGbfqAvXEVtuzjVU/pUarbeLds=
+		hHlMegjaXdvnb/KlYNoQndxoy3o=
 		</data>
 		<key>Resources/empty.lproj</key>
 		<data>
@@ -22,7 +27,7 @@
 		</data>
 		<key>Resources/qt_da.qm</key>
 		<data>
-		IPCGjLnW67OW95eV6N6lX8Xg9r8=
+		69nezwrKGy8U1ktgd7PxK7ZP8mY=
 		</data>
 		<key>Resources/qt_de.qm</key>
 		<data>
@@ -30,11 +35,11 @@
 		</data>
 		<key>Resources/qt_es.qm</key>
 		<data>
-		1prruI6h8lJgWKLZMutiCD117qw=
+		bbpLxzaf5AZX8aJ4KkORKaERBaM=
 		</data>
 		<key>Resources/qt_hu.qm</key>
 		<data>
-		CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+		tjY4D5KRwRHLjYhWirNF1Tpi23M=
 		</data>
 		<key>Resources/qt_ru.qm</key>
 		<data>
@@ -65,16 +70,18 @@
 			<data>
 			Frvdq5Xjvr4KPZC6+tGjjfXbGflJOQCfPYumgdYXvdE=
 			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>Resources/bitcoin.icns</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			DrGbfqAvXEVtuzjVU/pUarbeLds=
+			hHlMegjaXdvnb/KlYNoQndxoy3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			i+wAWElWndZuFvbzhLZuQYKAAxa4kZQsQ9URB3nX/64=
+			+mIPHQzqZA8nAFWCXBrzof4T8Iwba+lXGN3/kXiaAHM=
 			</data>
 		</dict>
 		<key>Resources/empty.lproj</key>
@@ -103,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IPCGjLnW67OW95eV6N6lX8Xg9r8=
+			69nezwrKGy8U1ktgd7PxK7ZP8mY=
 			</data>
 			<key>hash2</key>
 			<data>
-			sSsVdGT/lHYfgP5IFGwZ2Tj9IStZFb1d774japjtcy8=
+			UeNjW+b5NPNbyF13hCRcxBFM9YU8nfT9vZvE68YFPvE=
 			</data>
 		</dict>
 		<key>Resources/qt_de.qm</key>
@@ -125,22 +132,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1prruI6h8lJgWKLZMutiCD117qw=
+			bbpLxzaf5AZX8aJ4KkORKaERBaM=
 			</data>
 			<key>hash2</key>
 			<data>
-			C47ncZwKmGu9nEtZ3xgCZuXctdOGSXD9kzc8UhsZVPE=
+			LkzCOHSfPJnJ7mgqX8FHgsmnb0Prx3zIaq+dDIWDxwE=
 			</data>
 		</dict>
 		<key>Resources/qt_hu.qm</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			CZrXIeNmIBW7ydyQqBBMQR40XaQ=
+			tjY4D5KRwRHLjYhWirNF1Tpi23M=
 			</data>
 			<key>hash2</key>
 			<data>
-			Lbc5U6uM11fsofnSAQo2RSPbbJsrtfORxHJSofOxeNY=
+			jn3iyLzhg37i+C8I8adJ+aWIYzge5nTi1Ss5/sz9QmI=
 			</data>
 		</dict>
 		<key>Resources/qt_ru.qm</key>
@@ -206,11 +213,6 @@
 			<key>weight</key>
 			<real>1100</real>
 		</dict>
-		<key>^Resources/Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
-		</dict>
 		<key>^version.plist$</key>
 		<true/>
 	</dict>
@@ -269,11 +271,6 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
-		</dict>
-		<key>^Resources/Base\.lproj/</key>
-		<dict>
-			<key>weight</key>
-			<real>1010</real>
 		</dict>
 		<key>^[^/]+$</key>
 		<dict>
